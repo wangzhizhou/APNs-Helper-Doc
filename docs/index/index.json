@@ -1,1 +1,1 @@
-{"interfaceLanguages":{"swift":[{"path":"\/documentation\/apns_helper","title":"APNs_Helper","type":"module"}]},"schemaVersion":{"major":0,"minor":1,"patch":0}}
+{"interfaceLanguages":{"swift":[{"children":[{"title":"Articles","type":"groupMarker"},{"path":"\/documentation\/apns-helper\/ios","title":"iOS App","type":"symbol"},{"path":"\/documentation\/apns-helper\/macos","title":"macOS App","type":"symbol"}],"path":"\/documentation\/apns_helper","title":"APNs_Helper","type":"module"}]},"schemaVersion":{"major":0,"minor":1,"patch":0}}
